@@ -1,0 +1,5 @@
+C:\Users\Macklehatton\Desktop\NET projects\uploadFileForm\uploadFileForm\bin\Debug\uploadFileForm.exe
+C:\Users\Macklehatton\Desktop\NET projects\uploadFileForm\uploadFileForm\bin\Debug\uploadFileForm.pdb
+C:\Users\Macklehatton\Desktop\NET projects\uploadFileForm\uploadFileForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Macklehatton\Desktop\NET projects\uploadFileForm\uploadFileForm\obj\x86\Debug\uploadFileForm.exe
+C:\Users\Macklehatton\Desktop\NET projects\uploadFileForm\uploadFileForm\obj\x86\Debug\uploadFileForm.pdb
